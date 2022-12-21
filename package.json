@@ -1,0 +1,12 @@
+{
+  "name": "randomjokes",
+  "version": "1.0.0",
+  "main": "./bin/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "random-jokes": "^2.0.3"
+  },
+  "bin": {
+    "jokes": "./bin/index.js"
+  }
+}
